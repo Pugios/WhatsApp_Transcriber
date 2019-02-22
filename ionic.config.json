@@ -1,5 +1,8 @@
 {
   "name": "WhatsAppTranscriber",
-  "integrations": {},
-  "type": "angular"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "d2c7624e"
 }
